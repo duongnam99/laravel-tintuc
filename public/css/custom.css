@@ -1,0 +1,68 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden;
+}
+.main-left .col-md-9 .panel-body .col-md-4 h4 {
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 10px;
+    line-height: 2rem;
+}
+.navbar  {
+    background-color: #16a085;
+    border: none;
+}
+.navbar .navbar-collapse {
+    /*background-color: red;*/
+}
+.navbar.navbar-inverse .navbar-nav>li>a {
+    color: #2c3e50;
+}
+.navbar.navbar-inverse .navbar-nav>li>a:hover {
+    color: #ecf0f1;
+}
+.navbar.navbar-inverse .navbar-brand {
+    color: #2c3e50;
+}
+.navbar.navbar-inverse .navbar-brand:hover {
+    color: #ecf0f1;
+}
+nav .navbar-collapse .navbar-left .btn {
+    /*margin-top: 0rem;*/
+    background-color: #ecf0f1;
+    color: #9d9d9d;
+}
+.main-left .panel-default .panel-heading h2 {
+    font-size:2rem;
+}
+.main-left .panel-default .panel-body h3 a {
+    font-size: 2rem;
+}
+.main-left .panel-default .panel-body h3 small a {
+    font-size: 1.5rem;
+}
+.main-left .panel-default .panel-body .border-right a img {
+    width: 200px;
+    height: 150px;
+    margin-top: 25px;
+}
+
+.tieudetin {
+    font-size: 2rem;
+    line-height: 2.5rem;
+}
+.tomtat {
+    font-size: 1.4rem;
+}
+.xemthem {
+    background: #16a085;
+    color: #ecf0f1;
+}
+.panel-default .panel-heading {
+    /*padding: 1px 15px;*/
+    font-weight: 400;
+}
+footer {
+    /*height: 200px;*/
+    /*background: #16a085;*/
+}
